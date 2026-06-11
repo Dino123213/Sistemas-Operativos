@@ -1,0 +1,13 @@
+0: Inicio del programa 
+ 3: Creado el proceso 0
+ 3: Hijo 0 m= 11
+ 5: Finalizó un proceso, valor de m= 10
+ 6: Creado el proceso 1
+ 6: Hijo 1 m= 11
+ 7: Creado el proceso 2
+ 7: Hijo 2 m= 11
+ 8: Finalizó un proceso, valor de m= 10
+ 9: Finalizó un proceso (padre), valor de m= 10
+b) Time calcula el tiempo del sistema
+c) Se crean 3 procesos aparte del padre
+d) Se crean 4 variables m en memoria 
